@@ -1,0 +1,11 @@
+C:\Desktop\AuditoriaAnubisTrades\AuditoriaAnubisTrades\AuditoriaAnubisTrades\bin\Debug\AuditoriaAnubisTrades.exe.config
+C:\Desktop\AuditoriaAnubisTrades\AuditoriaAnubisTrades\AuditoriaAnubisTrades\bin\Debug\AuditoriaAnubisTrades.exe
+C:\Desktop\AuditoriaAnubisTrades\AuditoriaAnubisTrades\AuditoriaAnubisTrades\bin\Debug\AuditoriaAnubisTrades.pdb
+C:\Desktop\AuditoriaAnubisTrades\AuditoriaAnubisTrades\AuditoriaAnubisTrades\bin\Debug\Newtonsoft.Json.dll
+C:\Desktop\AuditoriaAnubisTrades\AuditoriaAnubisTrades\AuditoriaAnubisTrades\obj\Debug\AuditoriaAnubisTrades.Properties.Resources.resources
+C:\Desktop\AuditoriaAnubisTrades\AuditoriaAnubisTrades\AuditoriaAnubisTrades\obj\Debug\AuditoriaAnubisTrades.csproj.GenerateResource.Cache
+C:\Desktop\AuditoriaAnubisTrades\AuditoriaAnubisTrades\AuditoriaAnubisTrades\obj\Debug\AuditoriaAnubisTrades.csproj.CoreCompileInputs.cache
+C:\Desktop\AuditoriaAnubisTrades\AuditoriaAnubisTrades\AuditoriaAnubisTrades\obj\Debug\AuditoriaAnubisTrades.exe
+C:\Desktop\AuditoriaAnubisTrades\AuditoriaAnubisTrades\AuditoriaAnubisTrades\obj\Debug\AuditoriaAnubisTrades.pdb
+C:\Desktop\AuditoriaAnubisTrades\AuditoriaAnubisTrades\AuditoriaAnubisTrades\obj\Debug\AuditoriaAnubisTrades.frmPrincipal.resources
+C:\Desktop\AuditoriaAnubisTrades\AuditoriaAnubisTrades\AuditoriaAnubisTrades\obj\Debug\AuditoriaAnubisTrades.csprojResolveAssemblyReference.cache
