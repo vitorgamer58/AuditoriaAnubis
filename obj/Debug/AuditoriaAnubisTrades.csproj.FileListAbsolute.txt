@@ -9,3 +9,14 @@ C:\Desktop\AuditoriaAnubisTrades\AuditoriaAnubisTrades\AuditoriaAnubisTrades\obj
 C:\Desktop\AuditoriaAnubisTrades\AuditoriaAnubisTrades\AuditoriaAnubisTrades\obj\Debug\AuditoriaAnubisTrades.pdb
 C:\Desktop\AuditoriaAnubisTrades\AuditoriaAnubisTrades\AuditoriaAnubisTrades\obj\Debug\AuditoriaAnubisTrades.frmPrincipal.resources
 C:\Desktop\AuditoriaAnubisTrades\AuditoriaAnubisTrades\AuditoriaAnubisTrades\obj\Debug\AuditoriaAnubisTrades.csprojResolveAssemblyReference.cache
+F:\Documents\GitHub\AuditoriaAnubis\bin\Debug\AuditoriaAnubisTrades.exe.config
+F:\Documents\GitHub\AuditoriaAnubis\bin\Debug\AuditoriaAnubisTrades.exe
+F:\Documents\GitHub\AuditoriaAnubis\bin\Debug\AuditoriaAnubisTrades.pdb
+F:\Documents\GitHub\AuditoriaAnubis\obj\Debug\AuditoriaAnubisTrades.csprojAssemblyReference.cache
+F:\Documents\GitHub\AuditoriaAnubis\obj\Debug\AuditoriaAnubisTrades.frmPrincipal.resources
+F:\Documents\GitHub\AuditoriaAnubis\obj\Debug\AuditoriaAnubisTrades.Properties.Resources.resources
+F:\Documents\GitHub\AuditoriaAnubis\obj\Debug\AuditoriaAnubisTrades.csproj.GenerateResource.cache
+F:\Documents\GitHub\AuditoriaAnubis\obj\Debug\AuditoriaAnubisTrades.csproj.CoreCompileInputs.cache
+F:\Documents\GitHub\AuditoriaAnubis\obj\Debug\AuditoriaAnubisTrades.csproj.CopyComplete
+F:\Documents\GitHub\AuditoriaAnubis\obj\Debug\AuditoriaAnubisTrades.exe
+F:\Documents\GitHub\AuditoriaAnubis\obj\Debug\AuditoriaAnubisTrades.pdb
